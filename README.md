@@ -8,4 +8,5 @@
 <h2>
   <p> <a href="https://grav3dancer.github.io/Interfejsy_webowe/Lab1/index.html" target="_blank"> Lab1 </a> </p>
   <p> <a href="https://grav3dancer.github.io/Interfejsy_webowe/Lab3/index.html" target="_blank"> Lab3 </a> </p>
+  <p> <a href="https://grav3dancer.github.io/Interfejsy_webowe/Lab4/index.html" target="_blank"> Lab4 </a> </p>
 
